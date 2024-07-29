@@ -12,7 +12,7 @@ jobs: # a basic unit of work in a run
 
   build: 
     macos:
-      xcode: 14.1.0 # indicate our selected version of Xcode
+      xcode: 14.1.0 # indicate our selected version of Xcode a
     steps: 
       - checkout
       - run:
